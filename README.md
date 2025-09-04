@@ -1,2 +1,0 @@
-# thankyou.html
-thankyou.html
